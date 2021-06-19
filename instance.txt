@@ -1,0 +1,3 @@
+public ip 13.233.254.129
+user name ubuntu
+password myfirstserver.pem
